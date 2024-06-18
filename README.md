@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shashini Jayasekara</h1>
-<h3><i>A passionate IT Student.Motivated to enhance my IT Knowlege at every turn and Explore the more about Technology.Always trying to grow and do something new.</i></h3>
+<h3><i>A passionate Data Science student. Motivated to enhance my knowledge at every turn and explore more about data and technology. Always striving to grow and discover new insights.</i></h3>
 
 
 
