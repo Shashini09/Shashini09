@@ -13,15 +13,15 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" align="right" />
 
-- 🌱 I’m currently learning **MERN (MongoDB,Express.js,React.js,Node.js)**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👩‍🎓 I’m 2nd Year Undergraduate at **SLIIT**
 
 - 🔭 I’m currently working on **Health related web app that is being developed using the MERN Stack**
 
-- 👯 I’m looking to collaborate **on Web Development Related Projects**
+- 👯 I’m looking to collaborate **Machine Learning and AI Related Projects**
 
-- 💬 Ask me about **Web Development|MERN Stack|JAVA**
+- 💬 Ask me about **AI/ML and Python**
 
 - 📫 How to reach me **shashinijayasekara11@gmail.com**
 
