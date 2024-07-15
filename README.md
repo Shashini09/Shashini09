@@ -90,6 +90,10 @@
 
 <p align="left"><img align="left" src="https://profile-counter.glitch.me/{Shashini09}/count.svg" /></p> 
 <br>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashini09&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Shashini09" 
+    bg_color=#808080/></p>
 </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
