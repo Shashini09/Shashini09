@@ -19,7 +19,7 @@
 
 - 🔭 I have already completed the **Health related web application developed using the MERN Stack**
 
-- 👯 I’m looking to collaborate **Machine Learning and AI Related Projects**
+- 👯 I’m looking to collaborate **Machine Learning and Python Related Projects**
 
 - 💬 Ask me about **AI/ML and Python**
 
