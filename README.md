@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" align="right" />
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing and Machine Learning**
 
 - 👩‍🎓 I’m 2nd Year Undergraduate at **SLIIT**
 
