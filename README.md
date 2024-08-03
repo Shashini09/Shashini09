@@ -9,7 +9,7 @@
 
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 👨🏻‍💻 &nbsp;**About me**
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" align="right" />
 
