@@ -99,7 +99,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
-<a href="www.linkedin.com/in/shashinijayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashini jayasekara" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shashinijayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashinijayasekara" height="30" width="40" /></a>
 <a href="https://fb.com/shashini jayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashini jayasekara" height="30" width="40" /></a>
 <a href="https://instagram.com/shashi_sankalpani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashi_sankalpani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shashinijayasek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shashinijayasekara1" height="30" width="40" /></a>
